@@ -35,3 +35,13 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Files in Parent Directories ###
+../../.vscode/
+../../HelloWorld.java
+../../HelloWorld/
+../HelloWorld/
+../java-web-dev-projects/
+../techjobs-console-java-graded-17/
+../techjobs-oo-java-graded-17/
+../../unitOne/
